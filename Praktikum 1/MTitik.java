@@ -1,3 +1,10 @@
+/*
+* Nama File : MTitik.java 
+* Nama/NIM  : Puti Dhiya Salsabila Rahman/24060121140173
+* Tanggal   : 22 Februari 2023
+* Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik
+*/
+
 class MTitik {
 	public static void main(String[] args) {
 		Titik t1;
