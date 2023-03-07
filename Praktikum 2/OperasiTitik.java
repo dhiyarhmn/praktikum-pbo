@@ -4,7 +4,7 @@
 * NIM       : 24060121140173
 * Tanggal   : 01/03/2023
 * Deskripsi : 
-* Lab		: B1
+* Lab	    : B1
 */
 
 class OperasiTitik {
