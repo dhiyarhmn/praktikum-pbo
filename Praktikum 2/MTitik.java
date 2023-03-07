@@ -4,7 +4,7 @@
 * NIM       : 24060121140173
 * Tanggal   : 22/02/2023
 * Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik
-* Lab		: B1
+* Lab	    : B1
 */
 
 class MTitik {
