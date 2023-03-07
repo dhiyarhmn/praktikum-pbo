@@ -3,8 +3,8 @@
 * Nama      : Puti Dhiya Salsabila Rahman
 * NIM       : 24060121140173
 * Tanggal   : 22/02/2023
-* Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Titik
-* Lab		: B1
+* Deskripsi : Kelas yang berisi Titik
+* Lab	    : B1
 */
 
 class Titik {
