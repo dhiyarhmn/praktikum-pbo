@@ -1,3 +1,11 @@
+/*
+* Nama File : TimSepakbola.java 
+* Nama      : Puti Dhiya Salsabila Rahman
+* NIM       : 24060121140173
+* Tanggal   : 15/03/2023
+* Lab		    : B1
+*/
+
 class TimSepakbola {
 
   // Assume there are only 2 teams using this class!
