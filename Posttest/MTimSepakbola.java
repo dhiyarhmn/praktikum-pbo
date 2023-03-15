@@ -1,3 +1,11 @@
+/*
+* Nama File : MTimSepakbola
+* Nama      : Puti Dhiya Salsabila Rahman
+* NIM       : 24060121140173
+* Tanggal   : 15/03/2023
+* Lab	    : B1
+*/
+
 class MTimSepakbola {
     public static void main(String[] args) {
       // TODO: Make an instance called 'liverpool' -> use constructor which you have made before
