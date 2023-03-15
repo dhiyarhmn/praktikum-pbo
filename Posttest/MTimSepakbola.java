@@ -1,5 +1,5 @@
 /*
-* Nama File : MTimSepakbola
+* Nama File : MTimSepakbola.java
 * Nama      : Puti Dhiya Salsabila Rahman
 * NIM       : 24060121140173
 * Tanggal   : 15/03/2023
