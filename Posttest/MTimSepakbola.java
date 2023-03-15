@@ -16,16 +16,16 @@ class MTimSepakbola {
       // TODO: call startTandingBola()
       manchesterUnited.startTandingBola(liverpool);
 
-		  // Assume that liverpool wins against manchesterUnited 7 - 0
+      // Assume that liverpool wins against manchesterUnited 7 - 0
       for (int i = 0; i < 7; i++) {
   		  manchesterUnited.goal();
 
-			// TODO: Replace [SKOR LIVERPOOL] and [SKOR MANCHESTERUNITED] with the correct METHOD
-			// Code below should produce the output "Skor sementara: Liverpool 7 - 0 Manchester United"
+      // TODO: Replace [SKOR LIVERPOOL] and [SKOR MANCHESTERUNITED] with the correct METHOD
+      // Code below should produce the output "Skor sementara: Liverpool 7 - 0 Manchester United"
 			  System.out.println("Skor sementara: " + manchesterUnited.nama + " " + manchesterUnited.getSkor() + " - " + liverpool.getSkor() + " " + liverpool.nama);
       }
 
-		  // TODO: call endTandingBola()
+      // TODO: call endTandingBola()
       liverpool.endTandingBola(manchesterUnited);
     }
   }
