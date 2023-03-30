@@ -3,7 +3,7 @@
 * Nama      : Puti Dhiya Salsabila Rahman
 * NIM       : 24060121140173
 * Tanggal   : 27/03/2023
-* Deskripsi : Implementasi dari interface ini harus memiliki cara untuk menghitung luas
+* Deskripsi : Kelas implementasi IArea berupa cara menghitung luas lingkaran
 * Lab		: B1
 */
 
