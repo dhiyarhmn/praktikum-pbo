@@ -3,6 +3,7 @@
 * Nama      : Puti Dhiya Salsabila Rahman
 * NIM       : 24060121140173
 * Tanggal   : 27/03/2023
+* Deskripsi: kelas abstrak, berisi abstraksi bangun datar
 * Lab		: B1
 */
 
