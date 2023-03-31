@@ -1,5 +1,3 @@
-package org.bangundatar;
-
 /*
 * Nama File : Lingkaran.java
 * Nama      : Puti Dhiya Salsabila Rahman
@@ -9,16 +7,17 @@ package org.bangundatar;
 * Lab		: B1
 */
 
+//mengambil konstanta yang ada di kelas java.lang.Math
 import static java.lang.Math.PI;
 
-public class Lingkaran implements IArea {
-    private double jejari;
+class Lingkaran implements IArea {
+	private double jejari;
 
-    public Lingkaran(double r) {
-        jejari = r;
-    }
+	public Lingkaran(double r) {
+		jejari = r;
+	}
 
-    public double hitungLuas() {
-        return PI * jejari * jejari;
-    }
+	public double hitungLuas() {
+		return PI*jejari*jejari;
+	}
 }
